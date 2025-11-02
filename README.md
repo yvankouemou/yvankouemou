@@ -23,7 +23,6 @@ Mon objectif : transformer la donnée brute en **décisions stratégiques** grâ
 
 ---
 
-
 ## 📫 Mes coordonnées
 
 💼 [**LinkedIn**](https://www.linkedin.com/in/yvan-kouemou-a421a6196/)  
