@@ -47,5 +47,4 @@ Mon objectif : transformer la donnée brute en **décisions stratégiques** grâ
 
 ---
 ⭐ *N’hésite pas à explorer mes projets ou à me contacter pour échanger autour de la data, du cloud et de la visualisation !*
-## Hi there 👋
 
