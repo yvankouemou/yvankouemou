@@ -18,21 +18,11 @@ Mon objectif : transformer la donnée brute en **décisions stratégiques** grâ
 
 - 🔹 Créer des **pipelines ELT** performants et scalables  
 - 🔹 Concevoir des **dashboards dynamiques** pour la prise de décision  
-- 🔹 Intégrer des solutions **Cloud Data Warehouse**  
-- 🔹 Mettre en place des architectures **DataOps & MLOps**  
+- 🔹 Intégrer des solutions **Cloud Data Warehouse**   
 - 🔹 Collaborer sur des projets alliant **ingénierie et storytelling data**  
 
 ---
 
-## 🚀 Projets récents
-
-| 🧩 Projet | ⚙️ Stack principale | 📚 Description |
-|------------|--------------------|----------------|
-| **BarcaRealStats** | Python · GCP · BigQuery · DBT · Looker · Docker | Analyse en temps réel des performances du Real Madrid et du FC Barcelone, avec automatisation IA via Gemini & X API |
-| **Chelsea FC Vizathon** | Power BI · Excel · DAX | Dashboard analytique des performances physiques des joueurs du Chelsea FC, dans le cadre du Vizathon Contest |
-| **Data Pipeline Cloud** | Talend · Airflow · GCP · BigQuery | Mise en place d’un pipeline complet d’intégration et transformation de données cloud |
-
----
 
 ## 📫 Mes coordonnées
 
